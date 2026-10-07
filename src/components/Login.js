@@ -1,4 +1,4 @@
 export function Login() {
-  return 'login form 1';
+  return 'login form';
 }
-// TODO: add password validation
+// TODO (JIRA-1234): add password validation
